@@ -1,0 +1,61 @@
+ h1 {
+  color: #662A75;
+  font-size: 56px;
+  font-weight: 300;
+} 
+h2 {
+ color: #2A5E75;
+ font-size: 36px;
+ font-weight: 300;
+}
+ h3 {
+  color: #75412A;
+  font-size: 24px;
+  font-weight: 300;
+}
+h4 {
+ color: #39752A;
+ font-size: 16px;
+font-weight: 300;
+}
+.container {font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+.hero-unit__background-image {
+ position: absolute;
+  z-index: -1;   
+  width: 100%;
+  height: 300%;
+  background-image: url("abbeyjanicek.github.io/resume-background-pic.jpg");
+  background-size: cover;
+  opacity: 0.2;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+ .gallery-item {
+  padding: 20px;
+  margin: 20px;
+  border: 5px solid #FFF;
+}
+.name {
+ margin: 20px 50px 0px; 
+ text-align: left;
+  font-weight: 300;
+}
+.address {
+ margin: 0px 50px 0px;
+  text-align: left;
+}
+.email {
+ margin: 0px 50px 0px;
+ text-align: left;
+}
+.linkedin {
+ margin: 0px 50px 0px;
+ text-align: left;
+}
+.resume-pic {
+ margin: 20px 50px 0px;   
+ float: right;
+}
